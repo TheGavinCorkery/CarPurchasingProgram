@@ -1,0 +1,49 @@
+
+Manufacturer: Ford
+Price: 27000.0
+Wheels: 4
+Doors: 4
+Horsepower: 350
+Passengers: 5
+Crash Rating: 4
+Model: Fusion
+Towing Capacity: 5000.0
+Cargo Capacity: 7000.0
+Bedliner: true
+Type: Passenger
+Manufacturer: Ford
+Price: 27000.0
+Wheels: 4
+Doors: 4
+Horsepower: 350
+Passengers: 5
+Crash Rating: 4
+Model: Fusion
+Towing Capacity: 5000.0
+Cargo Capacity: 7000.0
+Bedliner: true
+Type: Passenger
+Manufacturer: Ford
+Price: 27000.0
+Wheels: 4
+Doors: 4
+Horsepower: 350
+Passengers: 5
+Crash Rating: 4
+Model: Fusion
+Towing Capacity: 5000.0
+Cargo Capacity: 7000.0
+Bedliner: true
+Type: Passenger
+Manufacturer: Ford
+Price: 27000.0
+Wheels: 4
+Doors: 4
+Horsepower: 350
+Passengers: 5
+Crash Rating: 4
+Model: Fusion
+Towing Capacity: 5000.0
+Cargo Capacity: 7000.0
+Bedliner: true
+Type: Passenger
